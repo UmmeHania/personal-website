@@ -1,0 +1,99 @@
+body{
+    font-family: 'Roboto', sans-serif;
+   }
+h1{
+    font-size: 50px;
+    font-weight: 400;
+    margin:0;
+}
+h2{
+    font-size: 15px;
+    font-weight: 600;
+}
+h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+h4{
+    font-size: 12px;
+    font-weight: 400;
+    color:dimgray
+}
+article{
+    font-size: 15px;
+    font-weight: 400;
+}
+.highlight{
+    font-weight: 700;
+    font-size: 50px;
+    color: #EC5080;
+    margin:0;
+}
+p{
+    color: dimgray;
+    text-align: left;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:94%;
+    margin: 0;
+}
+section{
+    height:600px;
+    padding-bottom: 50px;
+}
+.header{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#EC4F92, #ED4B71);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 500;
+    margin-top: 70px;
+    }
+    button{
+    text-decoration: none;
+    background-image: linear-gradient(#EC4F92, #ED4B71);
+    padding: 20px 100px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 500;
+    box-shadow: none;
+    }
+.biography{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+.center{
+    text-align: center;
+}
+.work{
+    background-image: url(latest-work-bg.png);
+    background-position: 100%;
+}
+.section-image{
+    float:left;
+    width: 30%;
+    margin-right: 2%;
+}
+.testimonial{
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: 70%;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
